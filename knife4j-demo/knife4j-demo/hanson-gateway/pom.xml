@@ -77,7 +77,7 @@
                     <outputDirectory>${project.parent.basedir}/jars</outputDirectory>
                     <finalName>${project.artifactId}</finalName>
                     <!-- 指定该Main Class为全局的唯一入口 -->
-                    <mainClass>com.hanson.gateway.HansonGatewayApplication</mainClass>
+                    <mainClass>com.hanson.gateway.GatewayApplication</mainClass>
                     <layout>ZIP</layout>
                 </configuration>
                 <executions>

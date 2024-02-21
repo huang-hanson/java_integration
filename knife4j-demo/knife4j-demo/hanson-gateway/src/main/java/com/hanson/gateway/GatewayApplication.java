@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
 @Slf4j
 @SpringBootApplication(exclude = DataSourceAutoConfiguration.class)
-public class HansonGatewayApplication {
+public class GatewayApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(HansonGatewayApplication.class, args);
+        SpringApplication.run(GatewayApplication.class, args);
     }
 
 }

@@ -20,4 +20,9 @@ spring:
   profiles:
     active: local
 
+#自定义配置
+custom:
+  whiteList:
+    - '/*/v2/api-docs'
+
 # nacos 配置详见 readme.md 文件
