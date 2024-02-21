@@ -1,0 +1,23 @@
+server:
+  port: 7000
+
+spring:
+  application:
+    name: hanson-gateway
+  main:
+    allow-bean-definition-overriding: true
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 47.116.123.21:8848
+        namespace: hanson-local
+      config:
+        server-addr: 47.116.123.21:8848
+        file-extension: yml
+        namespace: hanson-local
+        shared-configs:
+          - application-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}
+  profiles:
+    active: local
+
+# nacos 配置详见 readme.md 文件

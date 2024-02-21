@@ -1,0 +1,20 @@
+server:
+  port: 8869
+  servlet:
+    context-path: /hanson
+
+spring:
+  application:
+    name: swagger-demo
+  # 数据库配置
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/swagger_demo?characterEncoding=UTF-8&useSSL=false&serverTimezone=GMT%2B8
+    hikari:
+      username: 'root'
+      password: 'root'
+      driver-class-name: 'com.mysql.cj.jdbc.Driver'
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
