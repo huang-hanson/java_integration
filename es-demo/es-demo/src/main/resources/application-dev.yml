@@ -1,0 +1,7 @@
+elasticsearch:
+  host: 192.168.193.129:9201,192.168.193.130:9202,192.168.193.131:9203
+  cluster-name: elastic
+  username:
+  password:
+#  synonym:
+#    path: http://192.168.1.1:9048/laokou-service/synonym
