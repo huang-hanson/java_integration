@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f52cb227-90e9-4979-bc13-42112868401a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../es-demo/es-demo/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../es-demo/es-demo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/port8081/src/main/java/com/hanson/restapi/CalculatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/port8081/src/main/java/com/hanson/rpc/CalculatorServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/port8081/src/main/java/com/hanson/rpc/CalculatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/port8081/src/main/java/com/hanson/rpc/CalculatorServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/port8082/src/main/java/com/hanson/restapi/CalculatorClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/port8082/src/main/java/com/hanson/rpc/CalculatorAsyncClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/port8082/src/main/java/com/hanson/rpc/CalculatorClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/port8082/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +44,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -165,7 +160,7 @@
       <updated>1710316570891</updated>
       <workItem from="1710316571918" duration="99000" />
       <workItem from="1710316770227" duration="74000" />
-      <workItem from="1710316854500" duration="3784000" />
+      <workItem from="1710316854500" duration="5149000" />
     </task>
     <servers />
   </component>
