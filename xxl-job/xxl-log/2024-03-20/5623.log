@@ -1,0 +1,10 @@
+2024-03-20 17:37:44 [com.xxl.job.core.thread.JobThread#run]-[133]-[xxl-job, JobThread-6-1710927342058] <br>----------- xxl-job job execute start -----------<br>----------- Param:C:\code\java\java_integration\xxl-job\xxl-job-master\xxl-job-executor-samples\xxl-job-executor-sample-hz\src\main\java\com\xxl\job\executor\service\jobhandler\test.bat
+2024-03-20 17:37:44 [com.xxl.job.core.thread.JobThread#run]-[179]-[xxl-job, JobThread-6-1710927342058] <br>----------- xxl-job job execute end(finish) -----------<br>----------- Result: handleCode=200, handleMsg = null
+2024-03-20 17:37:44 [com.xxl.job.core.thread.TriggerCallbackThread#callbackLog]-[197]-[xxl-job, executor TriggerCallbackThread] <br>----------- xxl-job job callback finish.
+2024-03-20 17:37:44 [com.xxl.job.core.thread.JobThread#run]-[194]-[xxl-job, JobThread-6-1710927342058] <br>----------- JobThread toStop, stopReason:web container destroy and kill the job.
+2024-03-20 17:37:44 [com.xxl.job.core.thread.JobThread#run]-[204]-[xxl-job, JobThread-6-1710927342058] <br>----------- JobThread Exception:java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.xxl.job.core.thread.JobThread.run(JobThread.java:114)
+<br>----------- xxl-job job execute end(error) -----------
