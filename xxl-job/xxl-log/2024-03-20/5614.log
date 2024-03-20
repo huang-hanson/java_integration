@@ -1,3 +1,0 @@
-2024-03-20 17:37:39 [com.xxl.job.core.thread.JobThread#run]-[133]-[xxl-job, JobThread-6-1710927342058] <br>----------- xxl-job job execute start -----------<br>----------- Param:C:\code\java\java_integration\xxl-job\xxl-job-master\xxl-job-executor-samples\xxl-job-executor-sample-hz\src\main\java\com\xxl\job\executor\service\jobhandler\test.bat
-2024-03-20 17:37:39 [com.xxl.job.core.thread.JobThread#run]-[179]-[xxl-job, JobThread-6-1710927342058] <br>----------- xxl-job job execute end(finish) -----------<br>----------- Result: handleCode=200, handleMsg = null
-2024-03-20 17:37:39 [com.xxl.job.core.thread.TriggerCallbackThread#callbackLog]-[197]-[xxl-job, executor TriggerCallbackThread] <br>----------- xxl-job job callback finish.
