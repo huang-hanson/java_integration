@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.hanson.cache</groupId>
-    <artifactId>cache-demo</artifactId>
+    <artifactId>memcached-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>cache-demo</name>
     <description>cache-demo</description>
