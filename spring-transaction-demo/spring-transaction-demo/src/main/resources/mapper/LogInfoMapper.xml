@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hanson.transaction.mapper.LogInfoMapper">
+    <resultMap id="BaseResultMap" type="com.hanson.transaction.domain.LogInfo">
+        <id column="id" property="id"/>
+        <result column="name" property="name"/>
+        <result column="desc" property="desc"/>
+        <result column="createtime" property="createTime"/>
+    </resultMap>
+
+    <insert id="add" parameterType="com.hanson.transaction.domain.LogInfo">
+        insert into loginfo(name, `desc`)
+        values (#{name}, #{desc})
+    </insert>
+</mapper>
