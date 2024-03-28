@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      host: 47.116.123.21
+      database: studentdb
