@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f52cb227-90e9-4979-bc13-42112868401a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../springmvc-demo/springmvc-demo/src/main/java/com/hanson/mvc/domain/Userinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springmvc-demo/springmvc-demo/src/main/java/com/hanson/mvc/mapper/userMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springmvc-demo/springmvc-demo/src/main/java/com/hanson/mvc/service/loginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springmvc-demo/springmvc-demo/src/main/resources/UserMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +57,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "C:/code/java/java_integration/rpc-restapi/rpc-restapi/port8082/src/main/resources",
+    "last_opened_file_path": "C:/code/java/java_integration/springmvc-demo/springmvc-demo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -161,6 +165,8 @@
       <workItem from="1710316571918" duration="99000" />
       <workItem from="1710316770227" duration="74000" />
       <workItem from="1710316854500" duration="5149000" />
+      <workItem from="1712600982506" duration="18000" />
+      <workItem from="1712601091996" duration="6000" />
     </task>
     <servers />
   </component>
