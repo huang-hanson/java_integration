@@ -17,8 +17,11 @@ public class SpringIocDiApplication {
         //获取Spring上下文对象
         ApplicationContext context = SpringApplication.run(SpringIocDiApplication.class, args);
 
-        MyController7 myController5 = context.getBean(MyController7.class);
-        myController5.sayHi();
+        for (int i = 0; i < 10; i++) {
+            MyController1 myController1 = context.getBean(MyController1.class);
+            myController1.sayHi();
+            System.out.println(myController1);
+        }
 
         // 方法名
 //        User user1 = (User) context.getBean("user1");

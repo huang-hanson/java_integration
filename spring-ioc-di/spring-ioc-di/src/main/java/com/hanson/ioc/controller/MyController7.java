@@ -18,7 +18,7 @@ public class MyController7 {
     private User user;
 
     public void sayHi() {
-        System.out.println("hi, UserController4...");
+        System.out.println("hi, UserController7...");
         System.out.println(user);
     }
 }
