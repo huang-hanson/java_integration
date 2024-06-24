@@ -8,7 +8,7 @@ import com.rabbitmq.client.ConnectionFactory;
  * @date 2024/6/21 12:43
  */
 public class ConnectionUtil {
-    public static final String HOST_ADDRESS = "47.116.123.21";
+    public static final String HOST_ADDRESS = "127.0.0.1";
 
     public static Connection getConnection() throws Exception {
 

@@ -15,7 +15,7 @@ public class Consumer {
         ConnectionFactory factory = new ConnectionFactory();
 
         // 2. 设置参数
-        factory.setHost("47.116.123.21");
+        factory.setHost("127.0.0.1");
         factory.setPort(5672);
         factory.setVirtualHost("/");
         factory.setUsername("guest");

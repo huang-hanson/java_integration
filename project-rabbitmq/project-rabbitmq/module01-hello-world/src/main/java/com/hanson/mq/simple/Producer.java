@@ -15,7 +15,7 @@ public class Producer {
         ConnectionFactory connectionFactory = new ConnectionFactory();
 
         // 设置主机地址
-        connectionFactory.setHost("47.116.123.21");
+        connectionFactory.setHost("127.0.0.1");
 
         // 设置连接端口号：默认为 5672
         connectionFactory.setPort(5672);
