@@ -1,0 +1,12 @@
+spring:
+  rabbitmq:
+    host: 47.116.123.21
+    port: 5672
+    username: guest
+    password: 123456
+    virtual-host: /
+    publisher-confirm-type: CORRELATED # 交换机的确认
+    publisher-returns: true # 队列的确认
+logging:
+  level:
+    com.hanson.mq.config.MQProducerAckConfig: info

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/module02-work-way/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module02-work-way/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module03-springboot-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module03-springboot-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module04-springboot-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module05-confirm-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module05-confirm-producer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module06-confirm-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module06-confirm-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module07-tx-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module07-tx-producer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
