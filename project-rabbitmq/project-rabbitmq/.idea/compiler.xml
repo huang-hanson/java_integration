@@ -8,8 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="module05-confirm-producer" />
         <module name="module01-hello-world" />
+        <module name="module08-cluster-producer" />
+        <module name="module09-cluster-consumer" />
         <module name="module02-work-way" />
         <module name="module07-tx-producer" />
+        <module name="module10-stream" />
         <module name="module03-springboot-consumer" />
         <module name="module06-confirm-consumer" />
         <module name="module04-springboot-producer" />
@@ -26,6 +29,9 @@
       <module name="module05-confirm-producer" options="-parameters" />
       <module name="module06-confirm-consumer" options="-parameters" />
       <module name="module07-tx-producer" options="-parameters" />
+      <module name="module08-cluster-producer" options="-parameters" />
+      <module name="module09-cluster-consumer" options="-parameters" />
+      <module name="module10-stream" options="-parameters" />
     </option>
   </component>
 </project>

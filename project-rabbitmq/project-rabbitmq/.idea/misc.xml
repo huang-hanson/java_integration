@@ -16,6 +16,10 @@
         <option value="$PROJECT_DIR$/module05-confirm-producer/pom.xml" />
         <option value="$PROJECT_DIR$/module06-confirm-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/module07-tx-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/module08-cluster-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/module09-cluster-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/modul10-stream/pom.xml" />
+        <option value="$PROJECT_DIR$/module10-stream/pom.xml" />
       </list>
     </option>
   </component>

@@ -12,6 +12,12 @@
     <file url="file://$PROJECT_DIR$/module06-confirm-consumer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/module07-tx-producer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/module07-tx-producer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module08-cluster-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module08-cluster-producer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module09-cluster-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module09-cluster-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module10-stream/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module10-stream/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
