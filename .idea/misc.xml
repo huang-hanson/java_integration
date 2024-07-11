@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/juc/juc/pom.xml" />
+        <option value="$PROJECT_DIR$/ik-analyzer-demo/ik-analyzer-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/es-demo/es-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/data_preheating/data_preheating/pom.xml" />
+        <option value="$PROJECT_DIR$/knife4j-demo/knife4j-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/knife4j-demo/knife4j-demo/hanson-server/pom.xml" />
+        <option value="$PROJECT_DIR$/knife4j-demo/knife4j-demo/hanson-server/server-system/pom.xml" />
+        <option value="$PROJECT_DIR$/knife4j-demo/knife4j-demo/hanson-common/pom.xml" />
+        <option value="$PROJECT_DIR$/knife4j-demo/knife4j-demo/hanson-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job/xxl-job-master/pom.xml" />
+        <option value="$PROJECT_DIR$/rpc-restapi/rpc-restapi/pom.xml" />
+        <option value="$PROJECT_DIR$/mongodb-demo/mongodb-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/swagger-demo/swagger-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/project-kafka/kafka-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-ioc-di/spring-ioc-di/pom.xml" />
+        <option value="$PROJECT_DIR$/unittest-demo/mockito-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/unittest-demo/unittest-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/memcached-demo/memcached-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-demo/springmvc-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/project-rabbitmq/project-rabbitmq/module10-stream/pom.xml" />
+        <option value="$PROJECT_DIR$/project-rabbitmq/project-rabbitmq/module02-work-way/pom.xml" />
+        <option value="$PROJECT_DIR$/project-rabbitmq/project-rabbitmq/module01-hello-world/pom.xml" />
+        <option value="$PROJECT_DIR$/project-rabbitmq/project-rabbitmq/module07-tx-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/project-rabbitmq/project-rabbitmq/module05-confirm-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/project-rabbitmq/project-rabbitmq/module06-confirm-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/project-rabbitmq/project-rabbitmq/module08-cluster-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/project-rabbitmq/project-rabbitmq/module09-cluster-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/project-rabbitmq/project-rabbitmq/module03-springboot-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/project-rabbitmq/project-rabbitmq/module04-springboot-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cache-demo/spring-cahce-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-uniqueID-demo/redis-uniqueID-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-transaction-demo/spring-transaction-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-distributed-lock-demo/redis-distributed-lock-demo-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-distributed-lock-demo/redis-distributed-lock-demo-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-hotAndRecentSearch-demo/redis-hotAndRecentSearch-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-delayQueue/redis-delayQueue/redis-delayQueue/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-delayQueue/redis-delayQueue/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

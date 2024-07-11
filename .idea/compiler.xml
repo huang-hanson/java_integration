@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xxl-job-core" />
+        <module name="module05-confirm-producer" />
+        <module name="spring-cahce-demo" />
+        <module name="server-system" />
+        <module name="mongodb-demo" />
+        <module name="data_preheating" />
+        <module name="module10-stream" />
+        <module name="hanson-gateway" />
+        <module name="springmvc-demo" />
+        <module name="unittest-demo" />
+        <module name="module08-cluster-producer" />
+        <module name="module07-tx-producer" />
+        <module name="redis-delayQueue" />
+        <module name="es-demo" />
+        <module name="module03-springboot-consumer" />
+        <module name="server-user" />
+        <module name="redis-uniqueID-demo" />
+        <module name="xxl-job-admin" />
+        <module name="xxl-job-executor-sample-springboot" />
+        <module name="swagger-demo" />
+        <module name="module04-springboot-producer" />
+        <module name="memcached-demo" />
+        <module name="xxl-job-executor-sample-frameless" />
+        <module name="kafka-demo" />
+        <module name="spring-transaction-demo" />
+        <module name="ik-analyzer-demo" />
+        <module name="spring-ioc-di" />
+        <module name="rpc-restapi" />
+        <module name="module01-hello-world" />
+        <module name="module09-cluster-consumer" />
+        <module name="module02-work-way" />
+        <module name="redis-hotAndRecentSearch-demo" />
+        <module name="redis-distributed-lock-demo-8001" />
+        <module name="juc" />
+        <module name="mockito-demo" />
+        <module name="module06-confirm-consumer" />
+        <module name="redis-distributed-lock-demo-8002" />
+        <module name="common-core" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common-core" options="-parameters" />
+      <module name="data_preheating" options="-parameters" />
+      <module name="hanson-common" options="-parameters" />
+      <module name="hanson-gateway" options="-parameters" />
+      <module name="hanson-server" options="-parameters" />
+      <module name="juc" options="-parameters" />
+      <module name="knife4j-demo" options="-parameters" />
+      <module name="module03-springboot-consumer" options="-parameters" />
+      <module name="module04-springboot-producer" options="-parameters" />
+      <module name="module05-confirm-producer" options="-parameters" />
+      <module name="module06-confirm-consumer" options="-parameters" />
+      <module name="module07-tx-producer" options="-parameters" />
+      <module name="module08-cluster-producer" options="-parameters" />
+      <module name="module09-cluster-consumer" options="-parameters" />
+      <module name="module10-stream" options="-parameters" />
+      <module name="redis-delayQueue" options="-parameters" />
+      <module name="server-system" options="-parameters" />
+      <module name="server-user" options="-parameters" />
+      <module name="swagger-demo" options="-parameters" />
+    </option>
+  </component>
+</project>

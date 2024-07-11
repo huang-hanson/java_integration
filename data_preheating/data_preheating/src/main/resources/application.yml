@@ -10,7 +10,7 @@ spring:
     pathmatch:
       matching-strategy: ant_path_matcher
   redis:
-    host: xxxx
+    host: 127.0.0.1
     port: 6379
 mybatis-plus:
   type-aliases-package: com.hanson.datapreheat.entity
