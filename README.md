@@ -1,6 +1,6 @@
 swagger blog url:https://blog.csdn.net/weixin_45683778/article/details/136211224
 
-knife4j bolog url:https://blog.csdn.net/weixin_45683778/article/details/136216976
+knife4j blog url:https://blog.csdn.net/weixin_45683778/article/details/136216976
 
 Demo of implementing distributed lock in Redis blog url:https://blog.csdn.net/weixin_45683778/article/details/136300976
 
