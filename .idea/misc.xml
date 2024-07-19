@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
@@ -40,6 +41,8 @@
         <option value="$PROJECT_DIR$/redis-hotAndRecentSearch-demo/redis-hotAndRecentSearch-demo/pom.xml" />
         <option value="$PROJECT_DIR$/redis-delayQueue/redis-delayQueue/redis-delayQueue/pom.xml" />
         <option value="$PROJECT_DIR$/redis-delayQueue/redis-delayQueue/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisplus-demo/mybatisplus-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/logger-demo/logger-demo/pom.xml" />
       </list>
     </option>
   </component>
