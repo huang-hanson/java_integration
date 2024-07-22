@@ -38,8 +38,6 @@ public class MessageSender {
         student.setCreateTime(new Date());
         student.setUpdateTime(new Date());
 
-        String studentJson = JSON.toJSONString(student);
-
         try {
             RabbitMQMessageUtils.MQProducter(wyRabbitTemplate, MQEnum.TEST_MQ, JSON.toJSONString(student), retryTimes);
         } catch (Exception e) {
