@@ -22,14 +22,14 @@
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="central" />
-      <option name="name" value="Central Repository" />
-      <option name="url" value="https://nexus.51job.com/repository/maven-public/" />
-    </remote-repository>
-    <remote-repository>
       <option name="id" value="releases" />
       <option name="name" value="maven-releases" />
       <option name="url" value="https://nexus.51job.com/repository/maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://nexus.51job.com/repository/maven-public/" />
     </remote-repository>
   </component>
 </project>

@@ -27,6 +27,7 @@
         <module name="xxl-job-executor-sample-springboot" />
         <module name="swagger-demo" />
         <module name="module04-springboot-producer" />
+        <module name="rabbitMQ-demo" />
         <module name="memcached-demo" />
         <module name="xxl-job-executor-sample-frameless" />
         <module name="kafka-demo" />
@@ -68,6 +69,7 @@
       <module name="module09-cluster-consumer" options="-parameters" />
       <module name="module10-stream" options="-parameters" />
       <module name="mybatisplus-demo" options="-parameters" />
+      <module name="rabbitMQ-demo" options="-parameters" />
       <module name="redis-delayQueue" options="-parameters" />
       <module name="server-system" options="-parameters" />
       <module name="server-user" options="-parameters" />

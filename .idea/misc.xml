@@ -43,6 +43,7 @@
         <option value="$PROJECT_DIR$/redis-delayQueue/redis-delayQueue/pom.xml" />
         <option value="$PROJECT_DIR$/mybatisplus-demo/mybatisplus-demo/pom.xml" />
         <option value="$PROJECT_DIR$/logger-demo/logger-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitMQ-demo/rabbitMQ-demo/pom.xml" />
       </list>
     </option>
   </component>
