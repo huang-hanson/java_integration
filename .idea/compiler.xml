@@ -38,6 +38,7 @@
         <module name="module01-hello-world" />
         <module name="mybatisplus-demo" />
         <module name="module09-cluster-consumer" />
+        <module name="lz4-demo" />
         <module name="module02-work-way" />
         <module name="redis-hotAndRecentSearch-demo" />
         <module name="redis-distributed-lock-demo-8001" />
@@ -49,6 +50,9 @@
         <module name="common-core" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kafka-demo (1) (com.hanson.es)" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

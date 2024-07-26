@@ -1,3 +1,10 @@
 spring:
   profiles:
     active: dev
+  elasticsearch:
+    rest:
+      iris:
+        uris: localhost:9200
+        username: elastic
+        password: QFpuWk-MOuwIwXsE=TM6
+        read-timeout: 120s

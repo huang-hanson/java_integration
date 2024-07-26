@@ -7,6 +7,8 @@
     <file url="file://$PROJECT_DIR$/ik-analyzer-demo/ik-analyzer-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ik-analyzer-demo/ik-analyzer-demo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/juc/juc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-demo/kafka-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-demo/kafka-demo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/knife4j-demo/knife4j-demo/hanson-common/common-core/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/knife4j-demo/knife4j-demo/hanson-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/knife4j-demo/knife4j-demo/hanson-common/src/main/resources" charset="UTF-8" />
@@ -18,6 +20,8 @@
     <file url="file://$PROJECT_DIR$/knife4j-demo/knife4j-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/knife4j-demo/knife4j-demo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/logger-demo/logger-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lz4-demo/lz4-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lz4-demo/lz4-demo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/memcached-demo/memcached-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/memcached-demo/memcached-demo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mongodb-demo/mongodb-demo/src/main/java" charset="UTF-8" />

@@ -44,6 +44,8 @@
         <option value="$PROJECT_DIR$/mybatisplus-demo/mybatisplus-demo/pom.xml" />
         <option value="$PROJECT_DIR$/logger-demo/logger-demo/pom.xml" />
         <option value="$PROJECT_DIR$/rabbitMQ-demo/rabbitMQ-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/lz4-demo/lz4-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-demo/kafka-demo/pom.xml" />
       </list>
     </option>
   </component>
