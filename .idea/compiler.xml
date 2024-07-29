@@ -27,6 +27,7 @@
         <module name="xxl-job-executor-sample-springboot" />
         <module name="swagger-demo" />
         <module name="module04-springboot-producer" />
+        <module name="rabbitMQ-demo" />
         <module name="memcached-demo" />
         <module name="xxl-job-executor-sample-frameless" />
         <module name="kafka-demo" />
@@ -35,7 +36,9 @@
         <module name="spring-ioc-di" />
         <module name="rpc-restapi" />
         <module name="module01-hello-world" />
+        <module name="mybatisplus-demo" />
         <module name="module09-cluster-consumer" />
+        <module name="lz4-demo" />
         <module name="module02-work-way" />
         <module name="redis-hotAndRecentSearch-demo" />
         <module name="redis-distributed-lock-demo-8001" />
@@ -43,9 +46,13 @@
         <module name="mockito-demo" />
         <module name="module06-confirm-consumer" />
         <module name="redis-distributed-lock-demo-8002" />
+        <module name="logger-demo" />
         <module name="common-core" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kafka-demo (1) (com.hanson.es)" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
@@ -56,6 +63,7 @@
       <module name="hanson-server" options="-parameters" />
       <module name="juc" options="-parameters" />
       <module name="knife4j-demo" options="-parameters" />
+      <module name="logger-demo" options="-parameters" />
       <module name="module03-springboot-consumer" options="-parameters" />
       <module name="module04-springboot-producer" options="-parameters" />
       <module name="module05-confirm-producer" options="-parameters" />
@@ -64,6 +72,8 @@
       <module name="module08-cluster-producer" options="-parameters" />
       <module name="module09-cluster-consumer" options="-parameters" />
       <module name="module10-stream" options="-parameters" />
+      <module name="mybatisplus-demo" options="-parameters" />
+      <module name="rabbitMQ-demo" options="-parameters" />
       <module name="redis-delayQueue" options="-parameters" />
       <module name="server-system" options="-parameters" />
       <module name="server-user" options="-parameters" />

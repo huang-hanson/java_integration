@@ -1,0 +1,29 @@
+server:
+  port: 9091
+wy:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+    virtualHost: /
+    publisherConfirms: true
+    consumerProcess: 3
+    consumerProcessMax: 10
+    prefetchCount: 10
+    listenerAcknowledgeMode: auto
+    channelMax: 10000
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/test?useSSL=false&serverTimezone=UTC
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  redis:
+    host: 127.0.0.1
+    port: 6379
+
+mybatis-plus:
+  mapper-locations: classpath:/mapper/*.xml
+  type-aliases-package: com.hanson.rabbitMQ.entity

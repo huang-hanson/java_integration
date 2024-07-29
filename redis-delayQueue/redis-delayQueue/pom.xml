@@ -52,8 +52,12 @@
             <artifactId>fastjson</artifactId>
             <version>1.2.78</version> <!-- 版本号可能会有更新，请选择最新稳定版本 -->
         </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-pool2</artifactId>
+        </dependency>
 
-<!--        <dependency>-->
+        <!--        <dependency>-->
 <!--            <groupId>org.redisson</groupId>-->
 <!--            <artifactId>redisson</artifactId>-->
 <!--            <version>3.16.3</version> &lt;!&ndash; Redisson 的版本号，选择最新稳定版本 &ndash;&gt;-->
@@ -64,6 +68,8 @@
 <!--            <artifactId>redisson-spring-boot-starter</artifactId>-->
 <!--            <version>3.16.3</version> &lt;!&ndash; Redisson 的版本号，选择最新稳定版本 &ndash;&gt;-->
 <!--        </dependency>-->
+
+
     </dependencies>
 
     <build>

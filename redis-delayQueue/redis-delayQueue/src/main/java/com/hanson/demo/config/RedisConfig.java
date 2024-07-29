@@ -9,6 +9,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.redis.connection.RedisConnectionFactory;
 import org.springframework.data.redis.core.RedisTemplate;
+import org.springframework.data.redis.serializer.GenericToStringSerializer;
 import org.springframework.data.redis.serializer.StringRedisSerializer;
 
 /**
@@ -39,6 +40,13 @@ public class RedisConfig {
         template.setConnectionFactory(redisConnectionFactory);
         // 使用fastjson时需设置此项，否则会报异常not support type
         ParserConfig.getGlobalInstance().setAutoTypeSupport(true);
+        return template;
+    }
+
+    @Bean(name = "keyScannerRedisTemplate")
+    public RedisTemplate<String, Object> keyScannerRedisTemplate(RedisConnectionFactory redisConnectionFactory) {
+        RedisTemplate<String, Object> template = new RedisTemplate<>();
+        template.setConnectionFactory(redisConnectionFactory);
         return template;
     }
 
